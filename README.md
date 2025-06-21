@@ -1,3 +1,4 @@
+## Calculator app
 
 A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
 
@@ -13,3 +14,4 @@ A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScri
 - HTML
 - CSS
 - JavaScript
+
